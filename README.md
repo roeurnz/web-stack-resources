@@ -32,13 +32,13 @@
 ### Database
 - **MySQL**: Supported with PDO, MySQLi, and SQLite, fully compatible with Laravel 11.
 - Libraries and Tools:
-  - **Guzzle**: [Learn More](https://docs.guzzlephp.org/)
-  - **Spatie**: [Visit](https://spatie.be/open-source)
-  - **Sanctum**: [Documentation](https://laravel.com/docs/sanctum)
-  - **Livewire**: [Visit](https://laravel-livewire.com/)
-  - **Jetstream**: [Learn More](https://jetstream.laravel.com/)
-  - **Fortify**: [Documentation](https://laravel.com/docs/fortify)
-  - **Tinker**: [Learn More](https://laravel.com/docs/tinker)
+  - **Guzzle**: [Learn More](https://laravel.com/docs/11.x/http-client#guzzle-middleware)
+  - **Spatie**: [Visit](https://laravel.com/docs/11.x/upgrade#spatie-once-package)
+  - **Sanctum**: [Documentation](https://laravel.com/docs/11.x/sanctum#main-content)
+  - **Livewire**: [Visit](https://laravel.com/docs/11.x/frontend#livewire)
+  - **Jetstream**: [Learn More](https://jetstream.laravel.com/introduction.html)
+  - **Fortify**: [Documentation](https://laravel.com/docs/11.x/fortify#main-content)
+  - **Tinker**: [Learn More](https://laravel.com/docs/11.x/artisan#tinker)
   - **Breeze**: [Documentation](https://laravel.com/docs/11.x/starter-kits#breeze-and-blade)
 - **Blade**: For server-side testing. [Learn More](https://laravel.com/docs/blade)
 
