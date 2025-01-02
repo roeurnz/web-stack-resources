@@ -39,7 +39,7 @@
   - **Jetstream**: [Learn More](https://jetstream.laravel.com/)
   - **Fortify**: [Documentation](https://laravel.com/docs/fortify)
   - **Tinker**: [Learn More](https://laravel.com/docs/tinker)
-  - **Breeze**: [Documentation](https://laravel.com/docs/breeze)
+  - **Breeze**: [Documentation]([https://laravel.com/docs/breeze](https://laravel.com/docs/11.x/starter-kits#breeze-and-blade))
 - **Blade**: For server-side testing. [Learn More](https://laravel.com/docs/blade)
 
 ### Frontend
